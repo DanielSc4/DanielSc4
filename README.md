@@ -12,9 +12,8 @@
 <br>
 
 ### At a glance:
-- 📚 I am a Master Computer Science student at [UniMiB](https://en.unimib.it/).
+- 📚 I am a PhD student in Computer Science at [UniMiB](https://en.unimib.it/) 🇮🇹 & (soon) [University of Groningen](https://www.rug.nl/) 🇳🇱.
 - 🔬 Passionate about NLP research and its implementations.
-- 👨🏼‍💻 Currently at [UniMiB - Mind Lab](https://en.unimib.it/) 🇮🇹 and [University of Groningen](https://www.rug.nl/research/clcg/research/cl/?lang=en) 🇳🇱.
 - 👀 Always looking for new things to learn and experiment with (most of them left unfinished here on GitHub 🫡)
 - 🚀 When I’m old I want to be an astronaut!
 <br>
