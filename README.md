@@ -12,7 +12,7 @@
 <br>
 
 ### At a glance:
-- 📚 I am a PhD student in Computer Science at [UniMiB](https://en.unimib.it/) 🇮🇹 & (soon) [University of Groningen](https://www.rug.nl/) 🇳🇱.
+- 📚 I am a PhD student in Computer Science at [UniMiB](https://en.unimib.it/) 🇮🇹 & [University of Groningen](https://www.rug.nl/) 🇳🇱.
 - 🔬 Passionate about NLP research and its implementations.
 - 👀 Always looking for new things to learn and experiment with (most of them left unfinished here on GitHub 🫡)
 - 🚀 When I’m old I want to be an astronaut!
